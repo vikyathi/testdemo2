@@ -5,8 +5,6 @@ import altair as alt
 import numpy as np
 import pandas as pd
 
-from vega_datasets import data
-
 st.header('Homework 1')
 
 st.markdown(
